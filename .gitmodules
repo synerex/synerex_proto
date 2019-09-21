@@ -1,0 +1,3 @@
+[submodule "fleet"]
+	path = fleet
+	url = https://github.com/synerex/proto_fleet
