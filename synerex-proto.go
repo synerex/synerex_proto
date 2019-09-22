@@ -3,6 +3,9 @@ package proto // import "github.com/synerex/synerex_proto"
 
 const ChannelTypeVersion = "0.1.1"  // string for pbase version
 
+// if you change this number you should update "ChannelTypeVersion"
+const ChannelTypeMax = 20  // Default Synerex Server channel size
+
 // Channel Types
 const (
 	RIDE_SHARE uint32 = 1  // Rideshare Service Information
@@ -13,4 +16,4 @@ const (
 	MARKETING_SERVICE uint32 = 6 // Marketing (Ad/Enquate)
 )
 
-const ChannelTypeMax = 20  // may double default channel size
+
