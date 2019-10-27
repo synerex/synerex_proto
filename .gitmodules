@@ -1,3 +1,6 @@
 [submodule "fleet"]
 	path = fleet
 	url = https://github.com/synerex/proto_fleet
+[submodule "fluentd"]
+	path = fluentd
+	url = https://github.com/synerex/proto_fluentd.git
