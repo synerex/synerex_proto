@@ -15,4 +15,5 @@ const (
 	ROUTING_SERVICE   uint32 = 5 // Routing Service
 	MARKETING_SERVICE uint32 = 6 // Marketing (Ad/Enquate)
 	FLUENTD_SERVICE   uint32 = 7 // Fluentd Service (td-agent/fluetnd)
+	MEETING_SERVICE   uint32 = 8 // RPA Meetinng Service (rpa provider)
 )
