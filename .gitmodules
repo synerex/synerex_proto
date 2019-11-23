@@ -7,3 +7,6 @@
 [submodule "rpa"]
 	path = rpa
 	url = https://github.com/synerex/proto_rpa.git
+[submodule "ptransit"]
+	path = ptransit
+	url = https://github.com/synerex/proto_ptransit.git
