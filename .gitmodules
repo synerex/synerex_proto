@@ -10,3 +10,6 @@
 [submodule "storage"]
 	path = storage
 	url = https://github.com/synerex/proto_storage.git
+[submodule "ptransit"]
+	path = ptransit
+	url = https://github.com/synerex/proto_ptransit.git
