@@ -7,3 +7,6 @@
 [submodule "rpa"]
 	path = rpa
 	url = https://github.com/synerex/proto_rpa.git
+[submodule "storage"]
+	path = storage
+	url = https://github.com/synerex/proto_storage.git

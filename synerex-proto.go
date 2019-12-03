@@ -1,7 +1,7 @@
 package proto // import "github.com/synerex/synerex_proto"
 //
 
-const ChannelTypeVersion = "0.1.1" // string for pbase version
+const ChannelTypeVersion = "0.1.2" // string for pbase version
 
 // if you change this number you should update "ChannelTypeVersion"
 const ChannelTypeMax = 20 // Default Synerex Server channel size
@@ -16,4 +16,6 @@ const (
 	MARKETING_SERVICE uint32 = 6 // Marketing (Ad/Enquate)
 	FLUENTD_SERVICE   uint32 = 7 // Fluentd Service (td-agent/fluetnd)
 	MEETING_SERVICE   uint32 = 8 // RPA Meetinng Service (rpa provider)
+	STORAGE_SERVICE	  uint32 = 9 // Storage Service (storage providers)
+	RETRIEVAL_SERVICE uint32 = 10 // Retrieval Service (retrieval providers)    
 )
