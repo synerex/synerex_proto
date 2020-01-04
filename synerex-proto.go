@@ -1,7 +1,8 @@
 package proto // import "github.com/synerex/synerex_proto"
 //
 
-const ChannelTypeVersion = "0.1.5" // string for pbase version
+// ChannelTypeVersion is a common version number for Synerex Providers
+const ChannelTypeVersion = "0.1.6" // string for pbase version
 
 // if you change this number you should update "ChannelTypeVersion"
 const ChannelTypeMax = 20 // Default Synerex Server channel size
@@ -21,5 +22,5 @@ const (
 	PEOPLE_COUNTER_SVC uint32 = 11 // People Counter Service (Pflow providers)
 	AREA_COUNTER_SVC   uint32 = 12 // Area counter service
 	PEOPLE_AGENT_SVC   uint32 = 13 // people agent service
-
+	GEOGRAPHIC_SVC     uint32 = 14 // Geographical mapping service
 )
