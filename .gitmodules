@@ -13,6 +13,6 @@
 [submodule "ptransit"]
 	path = ptransit
 	url = https://github.com/synerex/proto_ptransit.git
-[submodule "geographic"]
-	path = geographic
-	url = https://github.com/synerex/proto_geographic.git
+[submodule "geography"]
+	path = geography
+	url = https://github.com/synerex/proto_geography.git
