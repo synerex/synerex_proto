@@ -16,3 +16,9 @@
 [submodule "geography"]
 	path = geography
 	url = https://github.com/synerex/proto_geography.git
+[submodule "json"]
+	path = json
+	url = https://github.com/synerex/proto_json.git
+[submodule "pcounter"]
+	path = pcounter
+	url = https://github.com/synerex/proto_pcounter.git
