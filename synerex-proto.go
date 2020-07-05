@@ -2,7 +2,7 @@ package proto // import "github.com/synerex/synerex_proto"
 //
 
 // ChannelTypeVersion is a common version number for Synerex Providers
-const ChannelTypeVersion = "0.1.7" // string for pbase version
+const ChannelTypeVersion = "0.1.8" // string for pbase version
 
 // if you change this number you should update "ChannelTypeVersion"
 const ChannelTypeMax = 20 // Default Synerex Server channel size
@@ -24,4 +24,5 @@ const (
 	PEOPLE_AGENT_SVC   uint32 = 13 // people agent service
 	GEOGRAPHIC_SVC     uint32 = 14 // Geographical mapping service
 	JSON_DATA_SVC      uint32 = 15 // Json data service
+	MQTT_GATEWAY_SVC   uint32 = 16 // MQTT Gateway service
 )

@@ -22,3 +22,6 @@
 [submodule "pcounter"]
 	path = pcounter
 	url = https://github.com/synerex/proto_pcounter.git
+[submodule "mqtt"]
+	path = mqtt
+	url = https://github.com/synerex/proto_mqtt
