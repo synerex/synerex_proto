@@ -25,3 +25,6 @@
 [submodule "mqtt"]
 	path = mqtt
 	url = https://github.com/synerex/proto_mqtt
+[submodule "pflow"]
+	path = pflow
+	url = https://github.com/UCLabNU/proto_pflow
