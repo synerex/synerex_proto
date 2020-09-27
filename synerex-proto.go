@@ -26,4 +26,5 @@ const (
 	JSON_DATA_SVC      uint32 = 15 // Json data service
 	MQTT_GATEWAY_SVC   uint32 = 16 // MQTT Gateway service
 	WAREHOUSE_SVC      uint32 = 17 // Warehouse Execution/Management service
+	PEOPLE_FLOW_SVC    uint32 = 18 // People Flow service
 )
