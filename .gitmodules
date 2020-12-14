@@ -25,6 +25,9 @@
 [submodule "mqtt"]
 	path = mqtt
 	url = https://github.com/synerex/proto_mqtt
+[submodule "pflow"]
+	path = pflow
+	url = https://github.com/synerex/proto_pflow
 [submodule "wes"]
 	path = wes
 	url = https://github.com/synerex/proto_wes.git
