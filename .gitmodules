@@ -31,3 +31,6 @@
 [submodule "wes"]
 	path = wes
 	url = https://github.com/synerex/proto_wes.git
+[submodule "grideye"]
+	path = grideye
+	url = https://github.com/synerex/proto_grideye
