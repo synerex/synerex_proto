@@ -2,10 +2,10 @@ package proto // import "github.com/synerex/synerex_proto"
 //
 
 // ChannelTypeVersion is a common version number for Synerex Providers
-const ChannelTypeVersion = "0.1.10" // string for pbase version
+const ChannelTypeVersion = "0.1.11" // string for pbase version
 
 // if you change this number you should update "ChannelTypeVersion"
-const ChannelTypeMax = 20 // Default Synerex Server channel size
+const ChannelTypeMax = 32 // Default Synerex Server channel size
 
 // Channel Types
 const (
@@ -28,4 +28,5 @@ const (
 	WAREHOUSE_SVC      uint32 = 17 // Warehouse Execution/Management service
 	PEOPLE_FLOW_SVC    uint32 = 18 // People Flow service
 	GRIDEYE_SVC        uint32 = 19 // Grid Eye service
+	LATENT_DMD_SVC     uint32 = 20 // Latent Demand service
 )
