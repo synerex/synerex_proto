@@ -34,3 +34,6 @@
 [submodule "grideye"]
 	path = grideye
 	url = https://github.com/synerex/proto_grideye
+[submodule "latent_demand"]
+	path = latent_demand
+	url = https://github.com/synerex/proto_latent_demand.git
