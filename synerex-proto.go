@@ -29,4 +29,5 @@ const (
 	PEOPLE_FLOW_SVC    uint32 = 18 // People Flow service
 	GRIDEYE_SVC        uint32 = 19 // Grid Eye service
 	LATENT_DMD_SVC     uint32 = 20 // Latent Demand service
+	LATENT_DMD_DSP_SVC uint32 = 21 // Latent Demand Display service
 )
