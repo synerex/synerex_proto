@@ -27,4 +27,5 @@ const (
 	MQTT_GATEWAY_SVC   uint32 = 16 // MQTT Gateway service
 	WAREHOUSE_SVC      uint32 = 17 // Warehouse Execution/Management service
 	PEOPLE_FLOW_SVC    uint32 = 18 // People Flow service
+	GRIDEYE_SVC        uint32 = 19 // Grid Eye service
 )
