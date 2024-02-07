@@ -31,4 +31,5 @@ const (
 	LATENT_DMD_SVC     uint32 = 20 // Latent Demand service
 	LATENT_DMD_DSP_SVC uint32 = 21 // Latent Demand Display service
 	ALT_PT_SVC         uint32 = 22 // Alternative Public Transit Service
+	PEOPLE_WT_SVC      uint32 = 23 // People Weighted Tree service
 )
