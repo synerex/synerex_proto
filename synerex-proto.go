@@ -2,7 +2,7 @@ package proto // import "github.com/synerex/synerex_proto"
 //
 
 // ChannelTypeVersion is a common version number for Synerex Providers
-const ChannelTypeVersion = "0.1.12" // string for pbase version
+const ChannelTypeVersion = "0.1.14" // string for pbase version
 
 // if you change this number you should update "ChannelTypeVersion"
 const ChannelTypeMax = 32 // Default Synerex Server channel size
